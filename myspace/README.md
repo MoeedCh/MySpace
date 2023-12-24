@@ -1,0 +1,1 @@
+## Followed Fireship.io's Next.js 13 course
